@@ -1,6 +1,6 @@
-import Photo from "@/types/PhotoType";
+import { PhotoType } from "@/types/Photo";
 
-const photoList: Photo[] = [
+const photoList: PhotoType[] = [
     { id: 1, url: '1.jpg' },
     { id: 2, url: '2.jpg' },
     { id: 3, url: '3.jpg' },
